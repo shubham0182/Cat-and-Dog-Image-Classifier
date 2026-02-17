@@ -56,26 +56,7 @@ The project is designed to be completed using **Google Colaboratory**.
 - NumPy
 
 ---
-cat-dog-image-classifier/
-│
-├── data/
-│   ├── train/
-│   │   ├── cats/
-│   │   └── dogs/
-│   ├── test/
-│   │   ├── cats/
-│   │   └── dogs/
-│
-├── model/
-│   └── cnn_model.py
-│
-├── utils/
-│   └── data_loader.py
-│
-├── train.py
-├── predict.py
-├── requirements.txt
-└── README.md
+
 
 ---
 
